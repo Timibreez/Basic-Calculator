@@ -1,0 +1,8 @@
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\bin\Debug\TodoDot.exe.config
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\bin\Debug\TodoDot.exe
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\bin\Debug\TodoDot.pdb
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\obj\Debug\TodoDot.csproj.AssemblyReference.cache
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\obj\Debug\TodoDot.csproj.SuggestedBindingRedirects.cache
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\obj\Debug\TodoDot.csproj.CoreCompileInputs.cache
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\obj\Debug\TodoDot.exe
+C:\Users\timib\Documents\Work\DotNet\TodoDot\TodoDot\obj\Debug\TodoDot.pdb
