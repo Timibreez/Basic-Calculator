@@ -10,13 +10,13 @@ namespace TodoDot
     {
         static void Main(string[] args)
         {
-            int age = 23;
-             
-            Console.Write("Whats your name ? ");
-            string name = Console.ReadLine();
+            Console.Write("Please Enter a Number ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Hello " + name);
+            Console.Write("Enter second number ");
+            int num2 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine(num1 + num2);
             Console.ReadLine();
         }
     }
