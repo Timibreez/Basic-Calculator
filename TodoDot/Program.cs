@@ -10,13 +10,33 @@ namespace TodoDot
     {
         static void Main(string[] args)
         {
-            Console.Write("Please Enter a Number ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter a Number: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Enter second number ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter an Operator: ");
+            string op = Console.ReadLine();
 
-            Console.WriteLine(num1 + num2);
+            Console.Write("Enter another Number: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+
+            if(op == "+")
+            {
+                Console.WriteLine(num1 + num2);
+            }else if(op == "-")
+            {
+                Console.WriteLine(num1 - num2);
+            }else if(op == "*")
+            {
+                Console.WriteLine(num1 * num2);
+            }else if(op == "/")
+            {
+                Console.WriteLine(num1 / num2);
+            }
+            else
+            {
+                Console.WriteLine("Invalid Operator");
+            }
+
             Console.ReadLine();
         }
     }
